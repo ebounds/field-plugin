@@ -1,0 +1,16 @@
+{
+  "name": "ebounds",
+  "owner": {
+    "name": "Edgar Bounds"
+  },
+  "metadata": {
+    "description": "Edgar Bounds's Claude Code plugins."
+  },
+  "plugins": [
+    {
+      "name": "field",
+      "source": "./",
+      "description": "Field: a wordless SVG expression of the accumulated tone of a whole AI conversation, with optional listening and a local companion."
+    }
+  ]
+}
