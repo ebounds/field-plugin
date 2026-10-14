@@ -1,11 +1,12 @@
 {
   "name": "field",
+  "displayName": "Field",
   "version": "4.6.0",
   "description": "Field: a wordless SVG expression of the accumulated tone of a whole AI conversation, with optional listening and a local companion.",
   "author": {
     "name": "Edgar Bounds"
   },
   "homepage": "https://ebounds.github.io/field/",
-  "repository": "https://github.com/ebounds/field",
+  "repository": "https://github.com/ebounds/field-plugin",
   "license": "MIT"
 }
